@@ -3,7 +3,7 @@ CSC 360 Fall 2018
 Italo Borrelli
 V00884840
 
-acs represents an airline check-in with 4 desks allowing economy and business
+ACS represents an airline check-in with 4 desks allowing economy and business
 customers with business customers having first priority to get serviced
 
 Usage is ./ACS <customer_file>
